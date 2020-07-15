@@ -1,2 +1,2 @@
 # Hello Word
- Aprendendo Git com Gustavo Guanabarra
+ Aprendendo Git e GitHub com Gustavo Guanabarra
